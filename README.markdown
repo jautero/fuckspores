@@ -1,0 +1,3 @@
+> Good morning, fuckspores. Yet another horrible morning in this endless cold damp ash-covered hell we call "life." Smile.
+> * [@warrenellis](http://twitter.com/warrenellis) on [tweet](http://twitter.com/warrenellis/status/14156393417)
+
