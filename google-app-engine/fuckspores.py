@@ -22,7 +22,7 @@
 project="Fuckspores"
 version="1.0"
 author="Juha Autero <jautero@iki.fi>"
-copyright="Copyright 2010 Juha Autero <jautero@iki.fi>"
+copyright="Copyright &copy; 2010 Juha Autero <jautero@iki.fi>"
 application="fuckspores"
 import wsgiref.handlers
 import os
