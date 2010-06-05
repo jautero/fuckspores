@@ -6,7 +6,33 @@
 </head>
 <body>
 <h1>Welcome to {{ project }}</h1>
-Version: {{ version }}
+<div id="fuckspores">
+	{% for fuckspore in fuckspores %}
+	<div class="fuckspore">
+		<img class="fucksporeicon" src="{{fuckspore.image}}">
+		<a class="fucksporename" href="{{fuckspore.url}}">{{fuckspore.name}}</a>
+	</div>
+	{% endfor %}
+</div>
+<div id="fuckoids">
+{% for fuckoid in fuckoids %}
+<div class="fuckoid">
+	<div class="fucksporeinfo">
+	<img class="fucksporeicon" src="{{fuckoid.fuckspore.image}}"> <a class="fucksporename" href="{{fuckoid.fuckspore.url}}">{{fuckoid.fuckspore.name}}</a>
+	<div class="fuckoidtitle">
+		{{fuckoid.title}}
+	</div>
+	<div class="fuckoidcontent">
+		{{fuckoid.content}}
+	</div>
+	<div class="fuckoidmeta">
+
+	</div>
+	</div>
+	
+</div>
+{% endfor %}
+</div>
 <address>
 {{copyright}}
 </address>
