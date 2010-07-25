@@ -7,7 +7,16 @@ title: Personal Facebook Replacement
 
 Platforms based on open standards are better than platforms based on single provider. There already are tools and standards for distributing status information called feeds.  FSpores are based on open industry standards like RSS and Atom with maximum interoperability and minimum lock-in.
 
+Goal is to create a simple standard way to describe your profile, aggregate different social network applications into that profile and create web services for maintaining that profile and using it to aggregate status reports from different sources to create your own news feed.
+
 ## File Formats
 
 * [[Simple Format]]
 * [[XML Format]]
+
+## Features
+
+* Standard way to represent profile data
+* Tools for maintaining that profile
+* Way to aggregate status reports from different services (Twitter, Facebook, Fourspace, LiveJournal, Wordpress etc.)
+* Tools to aggregate status reports from multiple entities.
