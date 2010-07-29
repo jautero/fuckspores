@@ -9,6 +9,14 @@ Platforms based on open standards are better than platforms based on single prov
 
 Goal is to create a simple standard way to describe your profile, aggregate different social network applications into that profile and create web services for maintaining that profile and using it to aggregate status reports from different sources to create your own news feed.
 
+## Architecture
+
+Basically there is a page where you can maintain your profile. You add all your services/feeds on your profile which thus aggregates all status updates you (or automated services you use) publish. Then you have a list of profiles you follow and status updates from those profiles are then collected as a news page.
+
+### Profile page
+
+### News Page
+
 ## File Formats
 
 * [[Simple Format]]
