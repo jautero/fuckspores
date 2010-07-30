@@ -11,7 +11,7 @@ Goal is to create a simple standard way to describe your profile, aggregate diff
 
 ## Architecture
 
-Basically there is a page where you can maintain your profile. You add all your services/feeds on your profile which thus aggregates all status updates you (or automated services you use) publish. Then you have a list of profiles you follow and status updates from those profiles are then collected as a news page.
+To implement basic functionality of Facebook news feed, you need three services. One to maintaining the fuckspores themselves as profile pages, one to generate feed for fuckspore from your status updates and one for displaying items from fuckspore feeds in a single news feed. [[Google App Engine]] is page for Google App Engine implementation of these.
 
 ### Profile page
 
