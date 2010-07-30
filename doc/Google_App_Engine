@@ -1,0 +1,12 @@
+title: Google App Engine Fuckspore App
+
+## Description
+
+First I will try to implement Fuckspores in Google App Engine. Since there is no other implementation, it will have to implement all parts. Main page will contain list of fuckspores you have subscribed to on the left and status updates from those fuckspores on the right. On top there is text box for your status update. Each account will have single public profile page for the user and single public feed for his status updates
+
+## Backlog
+
+* Parse feed into fuckoids.
+* Parse list of fuckspores
+* Implement fuckspore page
+* Implement news feed page
