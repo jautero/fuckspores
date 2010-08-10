@@ -27,7 +27,7 @@ This will be the first component.
 ## Features
 
 * Standard way to represent profile data
-* Tools for maintaining that profile
+* Tools for maintaining that profile ([[Profile Page]])
 * Way to aggregate status reports from different services (Twitter, Facebook, Fourspace, LiveJournal, Wordpress etc.)
 * Tools to aggregate status reports from multiple entities.
 
