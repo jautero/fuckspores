@@ -7,7 +7,7 @@ First I will try to implement Fuckspores in Google App Engine. Since there is no
 ## Backlog
 
 * As a user I want to be able to login so that only I can edit my fuckspore
-* As a user I don't 
+* As a user I don't want to have a Google account because I don't trust Google.
 * As a user I want to share URL of my fuckspore so my friends can find me.
 * As a user I want the fuckspore URL be as clear as possible so that I can share it using post-its or speach.
 * As a user I want to add image to fuckspore so that people can identify me.
