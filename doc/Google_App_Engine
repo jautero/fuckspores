@@ -9,11 +9,11 @@ First I will try to implement Fuckspores in Google App Engine. Since there is no
 * As a user I want to be able to login so that only I can edit my fuckspore
 * As a user I don't 
 * As a user I want to share URL of my fuckspore so my friends can find me.
-* As a user I want the fuckspore URL be as clear as possible so that I can share it using post-its or 
-* As a user I want to add image to fuckspore.
-* As a user I want to add name to fuckspore.
-* As a user I want to add feeds and other URLs to my fuckspore.
-* As a user I want to have machine readable form of my fuckspore.
-* As a user I want my tools to easily find the machine readable format of my fuckspore.
-* As a user I want to add my friend's fuckspores to a list
+* As a user I want the fuckspore URL be as clear as possible so that I can share it using post-its or speach.
+* As a user I want to add image to fuckspore so that people can identify me.
+* As a user I want to add name to fuckspore so that people know who's fuckspore it is.
+* As a user I want to add feeds and other URLs to my fuckspore so that I have single page to aggregate my social media.
+* As a user I want to have machine readable form of my fuckspore so that I can take advantage of that aggregation.
+* As a user I want my tools to easily find the machine readable format of my fuckspore so that I can just point my tools to my fuckspore URL.
+* As a user I want to add my friend's fuckspores to a list so that I have single page on which to find them.
 * As a user I want to follow my friend's feeds through their fuckspores.
