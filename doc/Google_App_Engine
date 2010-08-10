@@ -6,7 +6,14 @@ First I will try to implement Fuckspores in Google App Engine. Since there is no
 
 ## Backlog
 
-* Parse feed into fuckoids.
-* Parse list of fuckspores
-* Implement fuckspore page
-* Implement news feed page
+* As a user I want to be able to login so that only I can edit my fuckspore
+* As a user I don't 
+* As a user I want to share URL of my fuckspore so my friends can find me.
+* As a user I want the fuckspore URL be as clear as possible so that I can share it using post-its or 
+* As a user I want to add image to fuckspore.
+* As a user I want to add name to fuckspore.
+* As a user I want to add feeds and other URLs to my fuckspore.
+* As a user I want to have machine readable form of my fuckspore.
+* As a user I want my tools to easily find the machine readable format of my fuckspore.
+* As a user I want to add my friend's fuckspores to a list
+* As a user I want to follow my friend's feeds through their fuckspores.
