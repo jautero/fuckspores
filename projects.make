@@ -1,0 +1,1 @@
+$(eval $(call createproject,wiki,git,git://github.com/jautero/fuckspores.wiki,Fuckspores Wiki in github))
