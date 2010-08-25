@@ -45,8 +45,10 @@ class MainPage(webapp.RequestHandler):
 class FucksporePage(webapp.RequestHandler):
     def get(self):
         template_values=globals()
-        key=self.response.get("key",None)
-        mode=self.response.get("mode","view")
+        key=self.request.get("key",None)
+        if not key:
+          key=os.path.basename(self.request.path)
+        mode=self.request.get("mode","view")
         if not key:
             mode="edit"
             template_values["url"]=""

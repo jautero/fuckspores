@@ -1,8 +1,0 @@
-title: XML Format
-
-Since many people seems to be in love XML and every language and software development platform seems to have XML parser, there is also XML version of the format:
-
-    <fspore>
-    <metadata name="name" value="value" />
-    <feed url="URL" type="rss" />
-    </fspore>

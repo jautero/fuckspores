@@ -8,6 +8,6 @@ body {
     font-family: Helvetica, sans-serif; 
     font-size: 16pt;
 }
-#fuckspores { flush: left; }
-#fuckoids {flush: right; }
+#fuckspores { float: left; width: 30%; }
+#fuckoids {margin-left: 35%; width: 62%; }
 a.addlink { background-color: #52AAEF;}

@@ -1,4 +1,4 @@
-application: fuckspores
+application: fspores
 version: 1
 runtime: python
 api_version: 1
@@ -7,6 +7,9 @@ handlers:
 - url: /static
   static_dir: static_files
 
-- url: /.*
-  script: fuckspores.py
+- url: /fuckspore
+  script: main.py
   login: required
+
+- url: /.*
+  script: main.py
