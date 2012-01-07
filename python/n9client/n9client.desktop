@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=PySide app
+Exec=invoker --single-instance --type=e /usr/bin/n9client
+Icon=/usr/share/icons/hicolor/64x64/apps/n9client.png
+Categories=Development;

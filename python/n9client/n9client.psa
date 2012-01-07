@@ -1,0 +1,11 @@
+[Project]
+category = Development
+maintainer = Juha Autero
+appname = PySide app
+section = development
+pyversion = 2.7
+project = n9client
+email = email@example.com
+desc = A PySide example
+template = harmattan
+
